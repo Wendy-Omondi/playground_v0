@@ -1,0 +1,28 @@
+:root {
+    /* Brand colours */
+    --color-forest: #244C3A;
+    --color-terracotta: #B9674E;
+    --color-golden-hour: #D5A653;
+    --color-warm-sand: #EDE3D2;
+
+    /* Neutrals */
+    --color-off-white: #F8F6F0;
+    --color-white: #FFFFFF;
+    --color-ink: #252923;
+    --color-muted: #6B716B;
+
+    /* Typography */
+    --font-primary: Arial, Helvetica, sans-serif;
+
+    /* Layout */
+    --container-width: 1200px;
+    --container-padding: 24px;
+
+    /* Border radius */
+    --radius-sm: 8px;
+    --radius-md: 16px;
+    --radius-lg: 24px;
+
+    /* Transitions */
+    --transition-fast: 200ms ease;
+}
